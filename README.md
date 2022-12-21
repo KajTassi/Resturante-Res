@@ -5,6 +5,8 @@
 About the project:
 This was my final project for Thinkful's full stack engineer program. It was designed to be a hypathetical website for a restaurant's staff to help assign tables for people that book reservations at the said resturante. If you want to test out the website, you can got to the live link above and create tables and reservations that can be stored in the database; and also searched to be referenced.
 
+I am very happy with the websites use of data storage and functionality. I still think visually, it leaves a lot to be desired and I will be back to do more work on it after completing my next project!
+
 A full-stack app built using:
 - HTML
 - CSS
